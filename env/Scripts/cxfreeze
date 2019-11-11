@@ -1,0 +1,6 @@
+#!C:\Users\Rez\source\repos\WindowsApplication2\WindowsApplication2\env\Scripts\python.exe
+
+from cx_Freeze import main
+
+main()
+
